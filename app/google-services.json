@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1054607932010",
+    "firebase_url": "https://alumniapp-e155a.firebaseio.com",
+    "project_id": "alumniapp-e155a",
+    "storage_bucket": "alumniapp-e155a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054607932010:android:8f49c9095a0d2b53",
+        "android_client_info": {
+          "package_name": "in.ashnehete.healthset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054607932010-tr49f4dee018sb9bun5c6dqe8552s299.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ashnehete.healthset",
+            "certificate_hash": "04f5bb9fcc102585c19a2089663928c27c740a50"
+          }
+        },
+        {
+          "client_id": "1054607932010-73mnipdcmqlkrfrhu763h28ak2ho7u7s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1054607932010-73mnipdcmqlkrfrhu763h28ak2ho7u7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuB1EOZtDNhYObcWlH0V7uoBrL07P_S_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054607932010-73mnipdcmqlkrfrhu763h28ak2ho7u7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054607932010:android:808ed91251335b8e",
+        "android_client_info": {
+          "package_name": "in.ashnehete.healthsetdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054607932010-pb9hmg3us5re5g2f3f5oohve40lt6c2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ashnehete.healthsetdoctor",
+            "certificate_hash": "04f5bb9fcc102585c19a2089663928c27c740a50"
+          }
+        },
+        {
+          "client_id": "1054607932010-73mnipdcmqlkrfrhu763h28ak2ho7u7s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1054607932010-73mnipdcmqlkrfrhu763h28ak2ho7u7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuB1EOZtDNhYObcWlH0V7uoBrL07P_S_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054607932010-73mnipdcmqlkrfrhu763h28ak2ho7u7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
